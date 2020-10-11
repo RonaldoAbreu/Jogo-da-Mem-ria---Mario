@@ -1,2 +1,2 @@
-# Jogo-da-Mem-ria---Mario
+# Jogo-da-Memoria-Mario
 Usando Html, Css e Javascript
